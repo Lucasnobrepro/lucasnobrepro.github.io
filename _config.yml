@@ -2,18 +2,18 @@
 
 title: Lucas Site
 locale: pt_BR
-logo: aries_logo.png
+logo: #aries_logo.png
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Fr. Lucas S. Nobre
   avatar: lucas.jpeg
-  bio: "A brief description of yourself."
+  bio: "Este é meu site pessoal para publicações de pesquisa, conquistas e notícias sobre o mundo da tecnologia."
   email: lucas.nobre.ec@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: https://www.linkedin.com/in/lucas-nobre-pro/
-  github: https://github.com/Lucasnobrepro
+  linkedin: lucas-nobre-pro
+  github: Lucasnobrepro
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
